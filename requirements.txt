@@ -1,0 +1,7 @@
+transformers>=4.44.0
+torch
+sentencepiece
+beautifulsoup4
+requests
+newspaper3k
+tqdm
